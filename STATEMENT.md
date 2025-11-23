@@ -1,4 +1,4 @@
-# Project Statement - Simple Inventory & Billing System
+# Project Statement - Smart Inventory & Billing System
 
 **Academic Project for CSE at VIT Bhopal**
 
@@ -14,8 +14,8 @@ The **Simple Inventory & Billing System** is a lightweight, command-line Point o
 
 | Attribute | Value |
 |-----------|-------|
-| **Project Title** | Simple Inventory & Billing System |
-| **Project Code** | shop_simple.py |
+| **Project Title** | Smart Inventory & Billing System |
+| **Project Code** | Shop_billing_inventory.py |
 | **Institution** | Vellore Institute of Technology (VIT) Bhopal |
 | **Department** | Computer Science & Engineering (CSE) |
 | **Course** | CSE Project |
@@ -475,7 +475,7 @@ Metrics:
 
 The project is successful if:
 
-- ✅ Code is under 200 lines (185 lines achieved)
+- ✅ Code is 210 lines
 - ✅ All core features work without errors
 - ✅ Database operations are reliable
 - ✅ PDFs generate correctly
@@ -542,7 +542,7 @@ By completing this project, demonstrated competency in:
 
 ## 15. Conclusion
 
-The **Simple Inventory & Billing System** represents a practical application of computer science principles in solving real-world retail problems. By maintaining code simplicity (under 200 lines) while implementing core functionality, this project demonstrates both technical competency and the ability to deliver clean, maintainable software solutions.
+The **Smart Inventory & Billing System** represents a practical application of computer science principles in solving real-world retail problems. By maintaining code simplicity (under 200 lines) while implementing core functionality, this project demonstrates both technical competency and the ability to deliver clean, maintainable software solutions.
 
 The system provides immediate value through:
 1. Real-time inventory management
@@ -565,12 +565,11 @@ This project successfully balances educational objectives with practical functio
 - Professor: Dhiresh Soni
 
 **Project Deliverables:**
-- ✅ Source code (shop_simple.py - 185 lines)
+- ✅ Source code (Shop_billing_inventory.py - 210 lines)
 - ✅ Requirements file (requirements.txt)
 - ✅ README documentation
 - ✅ Technical documentation
 - ✅ Project statement (this document)
-- ✅ Pseudo code and workflows
 - ✅ Sample outputs (invoices)
 
 **Submission Date:** November 23, 2025  
@@ -581,4 +580,4 @@ This project successfully balances educational objectives with practical functio
 
 **End of Project Statement**
 
-*This document provides comprehensive project scope, objectives, design, and implementation details for the Simple Inventory & Billing System CSE project at VIT Bhopal.*
+*This document provides comprehensive project scope, objectives, design, and implementation details for the Smart Inventory & Billing System CSE project at VIT Bhopal.*
