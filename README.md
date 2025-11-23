@@ -833,4 +833,4 @@ This project is submitted as part of VIT Bhopal CSE curriculum for academic purp
 
 **Happy Coding! 🚀**
 
-*For questions or issues, refer to DOCUMENTATION.md and PSEUDO_CODE.md*
+*For questions or issues, refer to DOCUMENTATION.md *
