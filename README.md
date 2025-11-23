@@ -1,5 +1,5 @@
 # Smart-inventory-management-and-Billing-system
-# Simple Inventory & Billing System - README
+# Smart Inventory & Billing System - README
 
 **A Lightweight Terminal-Based Point of Sale (POS) and Inventory Management Solution**
 
