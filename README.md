@@ -583,7 +583,9 @@ END
 ---
 
 ## Code Walkthrough
-
+### Project screenshots
+![](https://github.com/Prabhashcht/Smart-inventory-management-and-Billing-system/blob/main/Project-ScreenShots/Screenshot%20(31).png)
+![](https://github.com/Prabhashcht/Smart-inventory-management-and-Billing-system/blob/main/Project-ScreenShots/Screenshot%20(39).png)
 ### Key Functions (185 lines total)
 
 **1. money(x) - Line 11**
@@ -653,6 +655,10 @@ Main menu loop handling user interactions.
 ---
 
 ## Testing Scenarios
+### Terminal Screenshots
+![](https://github.com/Prabhashcht/Smart-inventory-management-and-Billing-system/blob/main/Project-ScreenShots/Screenshot%202025-11-23%20221238.png)
+![](https://github.com/Prabhashcht/Smart-inventory-management-and-Billing-system/blob/main/Project-ScreenShots/Screenshot%20(42).png)
+
 
 ### Test 1: Complete Workflow
 1. Seed demo data (Option 6)
