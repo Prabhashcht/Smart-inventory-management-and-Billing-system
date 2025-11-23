@@ -1,0 +1,109 @@
+# Smart Inventory & Billing System - Requirements
+# Python 3.8+ Required
+# Installation: pip install -r requirements.txt
+
+# Core Dependencies
+reportlab==4.0.9
+
+# Built-in Python Libraries (No installation needed):
+# - sqlite3 (Database operations)
+# - datetime (Date/time handling)
+# - decimal (Precise currency calculations)
+
+# ============================================================
+# INSTALLATION INSTRUCTIONS
+# ============================================================
+
+# 1. VERIFY PYTHON INSTALLATION
+#    Command: python --version
+#    Must be Python 3.8 or higher
+
+# 2. CREATE VIRTUAL ENVIRONMENT (Recommended)
+#    Windows:  python -m venv venv
+#    macOS/Linux: python3 -m venv venv
+
+# 3. ACTIVATE VIRTUAL ENVIRONMENT
+#    Windows:  venv\Scripts\activate
+#    macOS/Linux: source venv/bin/activate
+
+# 4. INSTALL REQUIREMENTS
+#    pip install -r requirements.txt
+
+# 5. VERIFY INSTALLATION
+#    python -c "from reportlab.pdfgen import canvas; print('✓ OK')"
+
+# 6. RUN APPLICATION
+#    python shop_simple.py
+
+# ============================================================
+# OPTIONAL DEVELOPMENT DEPENDENCIES
+# ============================================================
+
+# For Testing (Optional):
+# pytest==7.4.3              # Unit testing framework
+# pytest-cov==4.1.0          # Code coverage
+
+# For Code Quality (Optional):
+# black==23.12.1             # Code formatter
+# pylint==3.0.3              # Code analyzer
+# flake8==6.1.0              # Style checker
+
+# ============================================================
+# TROUBLESHOOTING
+# ============================================================
+
+# Issue: "ModuleNotFoundError: No module named 'reportlab'"
+# Solution: pip install reportlab
+
+# Issue: "Python is not recognized"
+# Solution: Add Python to PATH or use python3
+
+# Issue: "Permission denied"
+# Solution (Linux/Mac): chmod +x shop_simple.py
+
+# ============================================================
+# ENVIRONMENT VARIABLES (Optional)
+# ============================================================
+
+# PYTHONUNBUFFERED=1  (For real-time output)
+# Set if running in Docker or restricted environment
+
+# ============================================================
+# SYSTEM REQUIREMENTS
+# ============================================================
+
+# Operating System: Windows, macOS, or Linux
+# Python Version: 3.8, 3.9, 3.10, 3.11, 3.12, 3.13
+# RAM: Minimum 512 MB (usual), 2 GB recommended
+# Disk Space: 50 MB free space for database and PDFs
+# Internet: Required only for initial pip install
+
+# ============================================================
+# VERSION INFO
+# ============================================================
+
+# ReportLab 4.0.9
+# - Released: January 2024
+# - Python Compatibility: 3.6+
+# - Size: ~3 MB installed
+
+# ============================================================
+# UNINSTALLATION
+# ============================================================
+
+# To remove all packages:
+# pip uninstall -r requirements.txt -y
+
+# To remove virtual environment:
+# Windows:  rmdir /s venv
+# macOS/Linux: rm -rf venv
+
+# ============================================================
+# NOTES
+# ============================================================
+
+# 1. All core Python libraries are built-in (no install needed)
+# 2. Only reportlab requires external installation
+# 3. Virtual environment isolation is recommended
+# 4. Fresh install recommended if encountering issues
+# 5. Check Python version compatibility before installing
