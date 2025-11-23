@@ -37,7 +37,7 @@
 
 ## Project Overview
 
-The **Simple Inventory & Billing System** is a streamlined, lightweight command-line application designed for small retail shops. It provides essential inventory management, automated billing, and PDF invoice generation in a clean, easy-to-understand codebase.
+The **Smart Inventory & Billing System** is a streamlined, lightweight command-line application designed for small retail shops. It provides essential inventory management, automated billing, and PDF invoice generation in a clean, easy-to-understand codebase.
 
 **Problem It Solves:**
 - Manual inventory tracking → Real-time stock management
@@ -731,12 +731,10 @@ python shop_simple.py
 ### For Submission
 
 Include these files:
-- ✅ shop_simple.py (main code)
-- ✅ requirements.txt (dependencies)
+- ✅ Shop_billing_inventory.py (main code)
 - ✅ README.md (this file)
 - ✅ DOCUMENTATION.md (technical details)
 - ✅ PROJECT_STATEMENT.md (project scope)
-- ✅ PSEUDO_CODE.md (algorithms)
 - ✅ Sample invoice (invoice_1.pdf)
 
 ---
@@ -800,15 +798,10 @@ By working on this project, you will learn:
 
 ## Submission Checklist
 
-- ✅ Code files (shop_simple.py)
+- ✅ Code files (Shop_billing_inventory.py)
 - ✅ Requirements file
 - ✅ README documentation
-- ✅ Technical documentation
-- ✅ Project statement
-- ✅ Pseudo code
-- ✅ Workflow diagrams
 - ✅ Sample outputs (PDF invoice)
-- ✅ Video demo (optional)
 
 ---
 
